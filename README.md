@@ -117,14 +117,11 @@ S.A 링크 : [B-1팀 영화추천서비스](https://iodized-justice-c7c.notion.
 
 ## 5. 와이어프레임
 
-[https://www.figma.com/file/hgtTToRaWbfP87GfNvHaMa/Off_the_Outfit?node-id=0%3A1&t=xw7FNe87Jr8IecaC-1](https://www.figma.com/file/hgtTToRaWbfP87GfNvHaMa/Off_the_Outfit?node-id=0%3A1&t=xw7FNe87Jr8IecaC-1)
+[https://www.figma.com/file/MFJqOD0rR4XhZFmudkHHLz/CaBul?node-id=0%3A1&t=SeKwqietAJCft108-1](https://www.figma.com/file/MFJqOD0rR4XhZFmudkHHLz/CaBul?node-id=0%3A1&t=SeKwqietAJCft108-1)
 
-![https://user-images.githubusercontent.com/111295065/207312359-91bb78a9-c108-4897-8cc3-e0cbb1f00cd0.png](https://user-images.githubusercontent.com/111295065/207312359-91bb78a9-c108-4897-8cc3-e0cbb1f00cd0.png)
+![jjapflix_wire](https://user-images.githubusercontent.com/111295065/210205926-c6cc0675-25e0-4cef-9561-22159e124d5e.png)
 
-## 6. API 명세서
 
-[off_the_outfit (getpostman.com)](https://documenter.getpostman.com/view/24913558/2s8YzWRfo4)
+## 6. DB 설계 ERD
 
-## 7. DB 설계 ERD
-
-![https://user-images.githubusercontent.com/111295065/207309475-759e6e8d-8265-4c49-8c8f-9f83478c329d.png](https://user-images.githubusercontent.com/111295065/207309475-759e6e8d-8265-4c49-8c8f-9f83478c329d.png)
+![jjapflix_erd](https://user-images.githubusercontent.com/111295065/210205901-9959eea0-7842-4fbd-b4aa-b143b29b211e.png)
